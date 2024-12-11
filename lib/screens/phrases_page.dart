@@ -1,3 +1,5 @@
+// ignore_for_file: missing_required_param
+
 import 'package:flutter/material.dart';
 import 'package:tokuto/components/list_item.dart';
 import 'package:tokuto/models/item.dart';
